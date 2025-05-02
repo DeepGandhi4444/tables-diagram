@@ -1,17 +1,128 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="nPSBBFXOsvzrxZYvWM87">
-    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-1" target="ACQYEWkgkyzCvlz0ovym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-1" target="ACQYEWkgkyzCvlz0ovym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ACQYEWkgkyzCvlz0ovym-1" value="Deep chirag Gandhi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACQYEWkgkyzCvlz0ovym-2" value="Vaishali Chirag Gandhi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACQYEWkgkyzCvlz0ovym-3" value="Chirag sharadchandra gandhi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-9" target="ACQYEWkgkyzCvlz0ovym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-9" target="ACQYEWkgkyzCvlz0ovym-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-9" value="JayKishanBhai chunilal padariya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-11" value="UrvashiBen JayKishan Padariya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.567;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-11" target="ACQYEWkgkyzCvlz0ovym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-13" value="sharadchandra&lt;div&gt;Dalsukhbhai&lt;/div&gt;&lt;div&gt;Gandhi&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-14" target="ACQYEWkgkyzCvlz0ovym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-14" value="Niruben Sharadchandra gandhi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.433;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-13" target="ACQYEWkgkyzCvlz0ovym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-17" value="Niruben Sharadchandra gandhi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-18" value="Dhannajay&amp;nbsp;&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Geeta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-14" target="ACQYEWkgkyzCvlz0ovym-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-22" value="Kaushika&amp;nbsp;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Ghanshyam patel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-23" value="&lt;div&gt;Jagruti&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Jignesh&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;patel&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2" y="260" />
+              <mxPoint x="111" y="260" />
+              <mxPoint x="111" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-24" value="Pragnesh&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Rachana padariya&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-29" target="ACQYEWkgkyzCvlz0ovym-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-29" value="Harsh &amp;amp; Krutika&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jay&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-31" target="ACQYEWkgkyzCvlz0ovym-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-31" value="vraj patel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="180" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-32" target="ACQYEWkgkyzCvlz0ovym-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-32" value="Het&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACQYEWkgkyzCvlz0ovym-35" target="ACQYEWkgkyzCvlz0ovym-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-38" value="Father" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ACQYEWkgkyzCvlz0ovym-37">
+          <mxGeometry x="0.1068" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-35" value="Dalsukhbhai&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;NarmadaBen&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-36" value="Hiralal&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Madhukanta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACQYEWkgkyzCvlz0ovym-39" value="Hiralal&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Madhukanta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
